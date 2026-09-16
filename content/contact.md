@@ -11,5 +11,7 @@ sections:
       text: |
         研究に関するご質問や協働のご相談は、以下のメールアドレスまでお気軽にご連絡ください。
         
-        **メール**: nakane@jsk.imi.i.u-tokyo.ac.jp
+        **メール**: nakane[at]jsk.imi.i.u-tokyo.ac.jp
+    design:
+      text_align: left
 ---

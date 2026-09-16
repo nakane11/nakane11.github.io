@@ -7,26 +7,15 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: 研究プロジェクト
+      title: "研究プロジェクト"
       text: |
-        ロボティクス、触覚センシング、人間-ロボット相互作用に焦点を当てた最近の研究プロジェクトをご紹介します。各プロジェクトは、実践的なシステム開発と厳密な評価を組み合わせています。
-
-  - block: collection
-    content:
-      title: 主要プロジェクト
-      text: ''
-      filters:
-        folders:
-          - projects
-        featured_only: true
+        ロボティクスと人間-ロボット相互作用に関する研究プロジェクトをご紹介します。
     design:
-      view: article-grid
-      fill_image: true
-      columns: 2
+      text_align: left
 
   - block: collection
     content:
-      title: すべてのプロジェクト
+      title: ""
       filters:
         folders:
           - projects
@@ -34,5 +23,5 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-      show_date: true
+      show_date: false
 ---

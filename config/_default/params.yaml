@@ -32,27 +32,29 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: light
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: "minimal"
     # Optional: Override theme pack colors
     colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#333333" # Dark gray for primary
+      secondary: "#666666"
+      neutral: "#999999"
     # Optional: Mode-specific color overrides
-    colors_light: {}
+    colors_light:
+      primary: "#333333"
+      secondary: "#666666"
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: ""
-      foreground: ""
+      background: "#ffffff"
+      foreground: "#000000"
       header:
-        background: ""
-        foreground: ""
+        background: "#ffffff"
+        foreground: "#000000"
       footer:
-        background: ""
-        foreground: ""
+        background: "#f8f8f8"
+        foreground: "#000000"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
@@ -60,7 +62,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "native"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -68,9 +70,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   layout:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
+    radius: "none"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "spacious"
+    spacing: "comfortable"
     # Avatar shape in author profiles
     avatar_shape: circle # circle | square | rounded
 

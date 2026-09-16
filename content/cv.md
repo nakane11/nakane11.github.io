@@ -22,17 +22,15 @@ sections:
         education: '学歴'
         interests: '研究分野'
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
-          enable: true
-      # Name heading sizing to accommodate long or short names
+          enable: false
       name:
         size: md
-      # Avatar customization
       avatar:
         size: medium
         shape: circle
+      text_align: left
 
   - block: markdown
     content:
@@ -49,6 +47,8 @@ sections:
         
         - **前期課程**（2019年4月～2021年3月）
           東京大学 教養学部 理科1類
+    design:
+      text_align: left
 
   - block: markdown
     content:
@@ -62,6 +62,8 @@ sections:
         
         - **日本学術振興会 特別研究員（DC2）予定**（2026年4月～）
           日本学術振興会による研究員制度
+    design:
+      text_align: left
 
   - block: markdown
     content:
@@ -81,6 +83,8 @@ sections:
         
         - **2023年**：IEEE RO-MAN 2023 論文発表
           Development of Robot Guidance System using Hand-Holding Interaction
+    design:
+      text_align: left
 
   - block: markdown
     content:
@@ -106,6 +110,8 @@ sections:
         - CAD/3Dモデリング（Fusion 360など）
         - 実験設計・データ分析
         - 学術論文執筆（日本語・英語）
+    design:
+      text_align: left
 
   - block: markdown
     content:
@@ -113,5 +119,7 @@ sections:
       text: |
         - **日本語**：ネイティブ
         - **英語**：学会発表・論文執筆可能レベル
+    design:
+      text_align: left
 
 ---
