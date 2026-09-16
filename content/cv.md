@@ -4,32 +4,16 @@ date: 2024-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '3rem'
 
 # Page sections
 sections:
-  - block: resume-biography-3
+  - block: markdown
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: CVをダウンロード（PDF）
-        url: uploads/cv.pdf
-      headings:
-        about: '自己紹介'
-        education: '学歴'
-        interests: '研究分野'
+      title: ""
+      text: |
+        [**CVをダウンロード (PDF)**](uploads/cv.pdf)
     design:
-      background:
-        gradient_mesh:
-          enable: false
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
       text_align: left
 
   - block: markdown
@@ -121,5 +105,4 @@ sections:
         - **英語**：学会発表・論文執筆可能レベル
     design:
       text_align: left
-
 ---

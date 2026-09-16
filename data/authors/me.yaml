@@ -11,13 +11,15 @@ name:
 postnominals: []
 status:
   icon: "🤖"
-role: 博士課程学生
+role: Ph.D. student
 bio: |
   触覚センシングと力覚フィードバックを通じた人間-ロボット相互作用に関する研究を行っており、特に人間との自然な手持ちインタラクションが可能な五本指ロボットハンド（WARBE Hand）の開発に従事しています。
 
 affiliations:
-  - name: 東京大学 大学院情報理工学系研究科
-    url: https://www.i.u-tokyo.ac.jp/
+  - name: JSK Robotics Laboratory
+    url: http://www.jsk.t.u-tokyo.ac.jp/index-j.html
+  - name: The University of Tokyo
+
 
 links:
   - icon: at-symbol
@@ -25,10 +27,6 @@ links:
     label: メール
   - icon: brands/github
     url: https://github.com/nakane11
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/
 
 interests:
   - ヒューマンインタフェース・インタラクション
@@ -41,14 +39,10 @@ education:
   - degree: 博士課程 知能機械情報学専攻
     institution: 東京大学 大学院情報理工学系研究科
     start: 2025-04-01
-    summary: |
-      触覚センシングと人間-ロボット相互作用に関する研究
   - degree: 修士課程 学際情報学専攻先端表現情報学コース
     institution: 東京大学 大学院学際情報学府
     start: 2023-04-01
     end: 2025-03-31
-    summary: |
-      五本指ロボットハンドの開発
   - degree: 学士課程 機械情報工学科
     institution: 東京大学 工学部
     start: 2021-04-01
