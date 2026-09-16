@@ -2,115 +2,111 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: 中根 葵
+  given: 葵
+  family: 中根
+  alternate: Aoi Nakane
+  pronunciation: なかね あおい
+  pronouns: ''
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🤖"
+role: 博士課程学生
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  触覚センシングと力覚フィードバックを通じた人間-ロボット相互作用に関する研究を行っており、特に人間との自然な手持ちインタラクションが可能な五本指ロボットハンド（WARBE Hand）の開発に従事しています。
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 東京大学 大学院情報理工学系研究科
+    url: https://www.i.u-tokyo.ac.jp/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+    url: mailto:nakane@jsk.imi.i.u-tokyo.ac.jp
+    label: メール
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/nakane11
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - ヒューマンインタフェース・インタラクション
+  - 触覚・触力覚センシング
+  - ロボットハンド制御
+  - 人間-ロボット相互作用
+  - 知的機械システム
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: 博士課程 知能機械情報学専攻
+    institution: 東京大学 大学院情報理工学系研究科
+    start: 2025-04-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      触覚センシングと人間-ロボット相互作用に関する研究
+  - degree: 修士課程 学際情報学専攻先端表現情報学コース
+    institution: 東京大学 大学院学際情報学府
+    start: 2023-04-01
+    end: 2025-03-31
+    summary: |
+      五本指ロボットハンドの開発
+  - degree: 学士課程 機械情報工学科
+    institution: 東京大学 工学部
+    start: 2021-04-01
+    end: 2023-03-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: JST次世代研究者挑戦的研究プログラム（SPRING）参加者
+    org: 日本科学技術振興機構
+    start: 2025-04-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      グリーントランスフォーメーション（GX）を先導する高度人材育成プロジェクト
+  - role: 東京大学高齢社会総合研究国際卓越大学院（WINGS-GLAFSプログラム）履修生
+    org: 東京大学
+    start: 2023-10-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      高齢社会に関する包括的研究を推進する国際プログラム
 
 skills:
-  - name: Technical Skills
+  - name: 技術スキル
     items:
+      - label: ロボティクス
+        level: 5
+      - label: 触覚センシング
+        level: 5
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
-  - name: Research & Communication
+      - label: ROS
+        level: 4
+  - name: その他
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: CAD/3Dモデリング
         level: 4
-      - label: Grant Proposals
+      - label: 実験設計・データ分析
+        level: 4
+      - label: 学術論文執筆
         level: 4
 
 languages:
-  - name: English
+  - name: 日本語
     level: 5
-    label: Native
-  - name: Spanish
+    label: ネイティブ
+  - name: 英語
     level: 4
-    label: Fluent
+    label: 学会発表・論文執筆可能
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: 優秀修士論文コース長賞
+    awarder: 東京大学
+    date: "2025-03-01"
+    summary: "手繋ぎ可能な分布触覚五指ハンドの開発"
+    icon: hero/trophy
+  - title: SI2024優秀講演賞（3件受賞）
+    awarder: 計測自動制御学会
+    date: "2025-02-01"
+    summary: "ロボティクス関連技術開発の研究発表"
+    icon: hero/trophy
+  - title: 若手優秀講演フェロー賞
+    awarder: 日本機械学会
+    date: "2024-05-01"
+    summary: "五指ハンドの開発と手繋ぎ動作実現"
     icon: hero/trophy
