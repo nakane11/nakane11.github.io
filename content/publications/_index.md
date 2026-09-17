@@ -13,21 +13,19 @@ sections:
         .markdown-content { font-size: 0.85rem; }
         .markdown-content p, .markdown-content li { font-size: 0.85rem; line-height: 1.6; }
         .prose { max-width: 100%; }
-        .markdown-content a { color: #0066cc; }
-        .markdown-content a:hover { color: #0052a3; }
         </style>
 
         ## 査読論文誌
 
-        1. **中根葵**,山口直也,矢野倉伊織, 岡田慧:[手繋ぎのための握り返し可能な分布触覚 5 指ハンドの開発](https://www.rsj.or.jp/pub/jrsj/advpub/260728-05.html). *日本ロボット学会誌* (早期公開)
+        1. **中根葵**,山口直也,矢野倉伊織, 岡田慧:<a href="https://www.rsj.or.jp/pub/jrsj/advpub/260728-05.html" style="color: #0066cc;">手繋ぎのための握り返し可能な分布触覚 5 指ハンドの開発</a>. *日本ロボット学会誌* (早期公開)
 
-        2. S. Hasegawa, A. Nagata, **A. Nakane**, M. Matsumura, K. Okada: [Development and Application of Wide-Range Precise Proximity Sensor](https://doi.org/10.20965/jrm.2026.p0729). *Journal of Robotics and Mechatronics*, Vol.38, No.3, pp.729-739, 2026.
+        2. S. Hasegawa, A. Nagata, **A. Nakane**, M. Matsumura, K. Okada: <a href="https://doi.org/10.20965/jrm.2026.p0729" style="color: #0066cc;">Development and Application of Wide-Range Precise Proximity Sensor</a>. *Journal of Robotics and Mechatronics*, Vol.38, No.3, pp.729-739, 2026.
         
         ## 国際学会
         
-        1. I. Yanokura, K. Matsuo, H. Ishida, S. Morita, **A. Nakane**, N. Yamaguchi, T. Makabe, K. Okada: [scikit-robot: An Integrated Framework for Solving Structural Challenges in Dynamic Modeling for Reconfigurable Robotics](https://doi.org/10.1109/SII64115.2026.11404513). *IEEE/SICE International Symposium on System Integration*, pp. 239-244, 2026.
-        2. **A. Nakane**, I. Yanokura, S. Hasegawa, N. Yamaguchi, K. Kojima, K. Okada, M. Inaba: [WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction](https://doi.org/10.1109/ICRA57147.2024.10610697). *IEEE International Conference on Robotics and Automation*, pp.18120-18126, 2024.
-        3. **A. Nakane**, I. Yanokura, A. Ichikura, K. Okada, M. Inaba: [Development of Robot Guidance System Using Hand-holding with Human and Measurement of Psychological Security](https://doi.org/10.1109/RO-MAN57019.2023.10309607). *IEEE International Conference on Robot and Human Interactive Communication*, pp.2030-2036, 2023.
+        1. I. Yanokura, K. Matsuo, H. Ishida, S. Morita, **A. Nakane**, N. Yamaguchi, T. Makabe, K. Okada: <a href="https://doi.org/10.1109/SII64115.2026.11404513" style="color: #0066cc;">scikit-robot: An Integrated Framework for Solving Structural Challenges in Dynamic Modeling for Reconfigurable Robotics</a>. *IEEE/SICE International Symposium on System Integration*, pp. 239-244, 2026.
+        2. **A. Nakane**, I. Yanokura, S. Hasegawa, N. Yamaguchi, K. Kojima, K. Okada, M. Inaba: <a href="https://doi.org/10.1109/ICRA57147.2024.10610697" style="color: #0066cc;">WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction</a>. *IEEE International Conference on Robotics and Automation*, pp.18120-18126, 2024.
+        3. **A. Nakane**, I. Yanokura, A. Ichikura, K. Okada, M. Inaba: <a href="https://doi.org/10.1109/RO-MAN57019.2023.10309607" style="color: #0066cc;">Development of Robot Guidance System Using Hand-holding with Human and Measurement of Psychological Security</a>. *IEEE International Conference on Robot and Human Interactive Communication*, pp.2030-2036, 2023.
         
         ## 国内学会
         
