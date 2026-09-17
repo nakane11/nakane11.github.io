@@ -20,38 +20,37 @@ sections:
     content:
       title: "学歴"
       text: |
-        - **博士課程**（2025年4月～現在）
-          東京大学 大学院情報理工学系研究科 知能機械情報学専攻
+        - 2025年～
+	  **東京大学大学院情報理工学系研究科 知能機械情報学専攻 博士課程**
         
-        - **修士課程**（2023年4月～2025年3月）
-          東京大学 大学院学際情報学府 学際情報学専攻先端表現情報学コース
+        - 2023年～2025年
+          **東京大学大学院学際情報学府 学際情報学専攻先端表現情報学コース 修士課程**
         
-        - **学士課程**（2021年4月～2023年3月）
-          東京大学 工学部 機械情報工学科
+        - 2021年～2023年
+	  **東京大学工学部 機械情報工学科 学士課程**
         
-        - **前期課程**（2019年4月～2021年3月）
-          東京大学 教養学部 理科1類
+        - 2019年～2021年
+	  **東京大学教養学部 理科1類 学士課程**
     design:
       text_align: left
 
   - block: markdown
     content:
-      title: "経歴・プログラム参加"
+      title: "経歴"
       text: |
-        - **JST次世代研究者挑戦的研究プログラム（SPRING）参加者**（2025年4月～）
-          グリーントランスフォーメーション（GX）を先導する高度人材育成プロジェクト
+        - 2026年4月～ **日本学術振興会 特別研究員（DC2）**
+	
+        - 2025年4月～ **JST次世代研究者挑戦的研究プログラム（SPRING）** プロジェクト生
         
-        - **東京大学高齢社会総合研究国際卓越大学院（WINGS-GLAFSプログラム）履修生**（2023年10月～）
-          高齢社会に関する包括的研究を推進する国際プログラム
+        - 2023年10月～ **東京大学高齢社会総合研究国際卓越大学院（WINGS-GLAFS）** プログラム履修生
         
-        - **日本学術振興会 特別研究員（DC2）予定**（2026年4月～）
-          日本学術振興会による研究員制度
+
     design:
       text_align: left
 
   - block: markdown
     content:
-      title: "受賞・実績"
+      title: "受賞"
       text: |
         - **2025年3月**：優秀修士論文コース長賞
           「手繋ぎ可能な分布触覚五指ハンドの開発」
@@ -62,11 +61,6 @@ sections:
         - **2024年5月**：若手優秀講演フェロー賞
           「五指ハンドの開発と手繋ぎ動作実現」
         
-        - **2024年**：IEEE ICRA 2024 論文発表
-          WARBE Hand: Five-Fingered Robotic Hand with Flexible Skin and Distributed Force Sensors
-        
-        - **2023年**：IEEE RO-MAN 2023 論文発表
-          Development of Robot Guidance System using Hand-Holding Interaction
     design:
       text_align: left
 
@@ -75,9 +69,9 @@ sections:
       title: "技術スキル"
       text: |
         **プログラミング言語**
-        - Python（高度）
-        - C/C++（中級）
-        - MATLAB（中級）
+        - Python
+        - C/C++
+	- EusLisp
         
         **ロボティクス関連**
         - ROS (Robot Operating System)
@@ -97,12 +91,4 @@ sections:
     design:
       text_align: left
 
-  - block: markdown
-    content:
-      title: "言語"
-      text: |
-        - **日本語**：ネイティブ
-        - **英語**：学会発表・論文執筆可能レベル
-    design:
-      text_align: left
 ---

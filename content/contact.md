@@ -7,11 +7,10 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: "お問い合わせ"
+      title: "Contact"
       text: |
-        研究に関するご質問や協働のご相談は、以下のメールアドレスまでお気軽にご連絡ください。
         
-        **メール**: nakane[at]jsk.imi.i.u-tokyo.ac.jp
+        **E-mail**: nakane[at]jsk.imi.i.u-tokyo.ac.jp
     design:
       text_align: left
 ---
