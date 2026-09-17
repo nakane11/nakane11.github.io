@@ -17,18 +17,18 @@ sections:
 
         ## 査読論文誌
         
-        1. S. Hasegawa, A. Nagata, A. Nakane, M. Matsumura, K. Okada (2026). "Development and Application of Wide-Range Precise Proximity Sensor." *Journal of Robotics and Mechatronics 38(3)*.
+        1. S. Hasegawa, A. Nagata, **A. Nakane**, M. Matsumura, K. Okada: Development and Application of Wide-Range Precise Proximity Sensor. *Journal of Robotics and Mechatronics*, Vol.38, No.3, pp.729-739, 2026.
         
         ## 国際学会
         
-        1. I. Yanokura, K. Matsuo, H. Ishida, S. Morita, A. Nakane, N. Yamaguchi, T. Makabe, K. Okada (2026). "scikit-robot: An Integrated Framework for Solving Structural Challenges in Dynamic Modeling for Reconfigurable Robotics." *IEEE/SICE International Symposium on System Integration*.
-        2. A. Nakane, I. Yanokura, S. Hasegawa, N. Yamaguchi, K. Kojima, K. Okada, M. Inaba (2024). "WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction." *2024 IEEE International Conference on Robotics and Automation (ICRA)*.
-        3. A. Nakane, I. Yanokura, A. Ichikura, K. Okada, M. Inaba (2023). "Development of Robot Guidance System Using Hand-holding with Human and Measurement of Psychological Security." *2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*.
+        1. I. Yanokura, K. Matsuo, H. Ishida, S. Morita, **A. Nakane**, N. Yamaguchi, T. Makabe, K. Okada: scikit-robot: An Integrated Framework for Solving Structural Challenges in Dynamic Modeling for Reconfigurable Robotics. *IEEE/SICE International Symposium on System Integration*, pp. 239-244, 2026.
+        2. **A. Nakane**, I. Yanokura, S. Hasegawa, N. Yamaguchi, K. Kojima, K. Okada, M. Inaba: WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction. *IEEE International Conference on Robotics and Automation*, pp.18120-18126, 2024.
+        3. **A. Nakane**, I. Yanokura, A. Ichikura, K. Okada, M. Inaba: Development of Robot Guidance System Using Hand-holding with Human and Measurement of Psychological Security. *IEEE International Conference on Robot and Human Interactive Communication*, pp.2030-2036, 2023.
         
         ## 国内学会
         
-        5. I. Yanokura, T. Makabe, N. Yamaguchi, H. Sato, K. Matsuo, A. Nakane, K. Okada (2026). "リコンフィギュアラブルモジュラーロボットのための微分可能キネマティクスによるIMUベース関節剛性同定." *日本機械学会ロボティクス・メカトロニクス講演会講演論文集26, pp. 1P1-P10*.
-        6. I. Yanokura, K. Matsuo, H. Ishida, S. Morita, A. Nakane, N. Yamaguchi, T. Makabe, K. Okada (2025). "scikit-robot: リコンフィギュアラブルロボットの動的モデル再構成を支援する統合フレームワーク." *SICEシステムインテグレーション部門講演会講演概要集26, pp. 1C7-06*.
+        1. I. Yanokura, T. Makabe, N. Yamaguchi, H. Sato, K. Matsuo, **A. Nakane**, K. Okada: リコンフィギュアラブルモジュラーロボットのための微分可能キネマティクスによるIMUベース関節剛性同定. *日本機械学会ロボティクス・メカトロニクス講演会*, pp. 1P1-P10, 2026.
+        2. I. Yanokura, K. Matsuo, H. Ishida, S. Morita, **A. Nakane**, N. Yamaguchi, T. Makabe, K. Okada: scikit-robot: リコンフィギュアラブルロボットの動的モデル再構成を支援する統合フレームワーク. *SICEシステムインテグレーション部門講演会*, pp. 1C7-06, 2025.
         7. A. Nakane, N. Yamaguchi, I. Yanokura, K. Okada (2025). "5指ロボットにおけるタスク駆動型ハンドロコマニピュレーションの身体的役割分担." *SICEシステムインテグレーション部門講演会講演概要集26, pp. 2B3-09*.
         8. S. Hasegawa, A. Nakane, I. Yanokura, K. Okada (2025). "汎用性・高密度性・省配線性・多点接触検知性を備えた汎用高密度触覚シート." *ロボット 287: 45-47*.
         9. C. Sawada, A. Miyamichi, A. Nakane, I. Yanokura, K. Okada (2025). "バックグラウンドストーリーを持つハグロボット「umoru」の研究1: コンセプトデザイン." *日本ロボット学会学術講演会予稿集43, pp. 1J4-01*.
