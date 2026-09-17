@@ -1,6 +1,6 @@
 /* サイト全体の基本文字サイズを少し小さくする */
 body {
-  font-size: 15px; /* 例: デフォルトより小さい値（0.9rem などでも可） */
+  font-size: 16px; /* 例: デフォルトより小さい値（0.9rem などでも可） */
 }
 
 /* 段落（テキスト本文）のサイズと行間を調整 */
@@ -17,5 +17,14 @@ h1, h2, h3 {
 /* コンテンツ領域の最大幅を広げる */
 .article-container,
 .container {
-  max-width: 900px !important; /* 好みの幅に調整してください */
+  max-width: 1100px !important; /* 好みの幅に調整してください */
+}
+
+/* Markdownブロック内の段落や箇条書き（リスト）の文字サイズを小さくする */
+.prose p,
+.prose li,
+.block-markdown p,
+.block-markdown li {
+  font-size: 16px !important; /* 前回の設定と同じ数値に合わせます */
+  line-height: 1.8 !important;
 }
