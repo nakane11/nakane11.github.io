@@ -82,20 +82,20 @@ sections:
   - block: markdown
     content:
       title: "技術"
-      text: |
+         text: |
         **ソフトウェア**
         - プログラミング言語: Python, EusLisp, C++, C
         - ミドルウェア: ROS (Navigation Stack, smach等)
         - 開発環境: Linux (Ubuntu), Git/GitHub
-        
+     
         **設計ツール**
         - 3D CAD (SolidWorks)
         - PCB CAD (Altium Designer)
 
         **組み込み・ハードウェア**
-	- マイクロコントローラ: ESP32, Arduino, STM32
+        - マイクロコントローラ: ESP32, Arduino, STM32
         - センシング: RGBDカメラ, LiDAR, 近接センサ，感圧センサ，空気圧センサ
-	- 機構・制御: ワイヤ駆動，モータ・空気圧制御，センサフィードバック
+        - 機構・制御: ワイヤ駆動，モータ・空気圧制御，センサフィードバック
         - 実装: 3Dプリンタによるプロトタイピング，柔軟素材（ゴム，布，ビニール）による外装造形
         
     design:
