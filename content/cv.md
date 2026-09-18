@@ -82,7 +82,7 @@ sections:
   - block: markdown
     content:
       title: "技術"
-         text: |
+      text: |
         **ソフトウェア**
         - プログラミング言語: Python, EusLisp, C++, C
         - ミドルウェア: ROS (Navigation Stack, smach等)
