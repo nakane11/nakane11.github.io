@@ -1,12 +1,9 @@
 ---
 title: 分布触覚センシングを備えた五指ロボットハンド「WARABI Hand」
 summary: 柔軟な外皮と分布型触覚センサを備え、人と握り返し合える五本指ロボットハンドの開発。手繋ぎインタラクションに向けたハードウェア・センシング研究です。
-tags:
-  - ロボティクス
-  - 触覚センシング
-  - ロボットハンド
 date: "2024-05-14"
 featured: true
+profile: false
 
 # Optional external URL for project (instead of project page).
 external_link: ""
@@ -40,15 +37,7 @@ slides: ""
 3. 中根葵, 山口直也, 矢野倉伊織, 小島邦生, 岡田慧: 人との手繋ぎのための対人適合可能な小型五指ロボットハンドの開発. *SICEシステムインテグレーション部門講演会*, 2E2-06, 2024.
 4. **A. Nakane**, I. Yanokura, S. Hasegawa, N. Yamaguchi, K. Kojima, K. Okada, M. Inaba: [WARABI Hand: Five-fingered Robotic Hand with Flexible Skin and Force Sensors for Social Interaction](https://doi.org/10.1109/ICRA57147.2024.10610697). *IEEE International Conference on Robotics and Automation (ICRA)*, pp.18120-18126, 2024.
 
-このハードウェア・センシング研究をさらに発展させた成果は、[手繋ぎ分類とハードウェア設計に関する研究](/projects/handholding-taxonomy-hardware/)（日本ロボット学会誌）にまとめています。
-
 ## 受賞
 
 - 優秀修士論文コース長賞（2025年3月）- 東京大学
 - SI2024優秀講演賞（2025年2月）- 計測自動制御学会
-
-## 応用分野
-
-- 高齢者・視覚障害者向けの手繋ぎ移動支援
-- 対人インタラクションを伴う案内・介護支援ロボット
-- 触覚フィードバックを活用した人間-ロボット協働

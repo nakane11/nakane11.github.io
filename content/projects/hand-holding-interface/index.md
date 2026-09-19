@@ -1,12 +1,9 @@
 ---
 title: 手繋ぎインタラクションによるロボット誘導・協調動作
 summary: 手を繋いだ状態での接触・力覚情報を活用し、人を先導したり人と役割分担しながら動作するロボットの誘導・協調システムに関する研究です。
-tags:
-  - 人間-ロボット相互作用
-  - ロボット誘導
-  - 力覚フィードバック
 date: "2023-08-28"
 featured: false
+profile: false
 
 # Optional external URL for project (instead of project page).
 external_link: ""
@@ -36,10 +33,3 @@ slides: ""
 
 1. 中根葵, 矢野倉伊織, 東風上奏絵, 岡田慧, 稲葉雅幸: 人の先導と場所教示をもとに案内行動を獲得するロボットの手繋ぎ誘導システム. *日本ロボット学会学術講演会*, 4D1-04, 2022.
 2. **A. Nakane**, I. Yanokura, A. Ichikura, K. Okada, M. Inaba: [Development of Robot Guidance System Using Hand-holding with Human and Measurement of Psychological Security](https://doi.org/10.1109/RO-MAN57019.2023.10309607). *IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, pp.2030-2036, 2023.
-
-身体部位への役割分担という観点から発展させた研究は、[SI2025：手型ロボットのハンドロコマニピュレーション](/projects/hand-locomanipulation-si2025/)にまとめています。
-
-## 応用分野
-
-- 視覚障害者・高齢者向けの手繋ぎ移動案内
-- 接触を伴う直感的なティーチング・誘導インタフェース
