@@ -14,19 +14,24 @@ h1, h2, h3 {
   font-size: 80%; /* デフォルトの80%のサイズにする */
 }
 
-/* ホームのプロフィール名見出しは上記の縮小ルールの対象外にし、大きく表示する */
+/* ホームのプロフィール名見出しは上記の縮小ルールの対象外にし、サイズを個別指定する */
 .resume-biography h1 {
-  font-size: 3rem; /* text-5xl 相当 */
+  font-size: 1.8rem; /* 3rem の60% */
 }
 @media (min-width: 640px) {
   .resume-biography h1 {
-    font-size: 3.75rem; /* sm:text-6xl 相当 */
+    font-size: 2.25rem; /* 3.75rem の60% */
   }
 }
 @media (min-width: 1024px) {
   .resume-biography h1 {
-    font-size: 4.5rem; /* lg:text-7xl 相当 */
+    font-size: 2.7rem; /* 4.5rem の60% */
   }
+}
+
+/* JSKと東大の所属行の行間を通常の60%程度に詰める */
+.profile-affiliation + .profile-affiliation {
+  margin-top: 0.45rem !important; /* space-y-3 (0.75rem) の60% */
 }
 
 /* コンテンツ領域の最大幅を広げる */
