@@ -53,3 +53,13 @@ h1, h2, h3 {
 .prose {
   max-width: 1100px !important; /* ここの数値をコンテナ幅と同じくらいに設定します */
 }
+
+/* プロジェクトページの日付と読了時間を非表示にする */
+.article-meta-date,
+.article-meta {
+  display: none !important;
+}
+.article .article-metadata,
+.article .meta {
+  display: none !important;
+}
