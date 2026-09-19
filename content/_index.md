@@ -11,14 +11,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: ''
-        url: ''
-      headings:
-        about: ''
-        education: ''
-        interests: ''
     design:
       background:
         gradient_mesh:
@@ -26,7 +18,7 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: md
+        size: xl
 
       # Avatar customization
       avatar:
