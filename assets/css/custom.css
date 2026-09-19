@@ -54,12 +54,20 @@ h1, h2, h3 {
   max-width: 1100px !important; /* ここの数値をコンテナ幅と同じくらいに設定します */
 }
 
-/* プロジェクトページの日付と読了時間を非表示にする */
-.article-meta-date,
-.article-meta {
+/* プロジェクトページの日付・読了時間を非表示にする */
+article > main > h1 + div {
   display: none !important;
 }
-.article .article-metadata,
-.article .meta {
+
+/* プロジェクトページ下部の「Last updated on」表示を非表示にする */
+article time[datetime] {
+  display: none !important;
+}
+
+/* プロジェクトページ下部のSNSシェアアイコンを非表示にする */
+a[id^="share-link-"] {
+  display: none !important;
+}
+section:has(> a[id^="share-link-"]) {
   display: none !important;
 }
