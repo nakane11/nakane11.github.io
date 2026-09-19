@@ -14,6 +14,21 @@ h1, h2, h3 {
   font-size: 80%; /* デフォルトの80%のサイズにする */
 }
 
+/* ホームのプロフィール名見出しは上記の縮小ルールの対象外にし、大きく表示する */
+.resume-biography h1 {
+  font-size: 3rem; /* text-5xl 相当 */
+}
+@media (min-width: 640px) {
+  .resume-biography h1 {
+    font-size: 3.75rem; /* sm:text-6xl 相当 */
+  }
+}
+@media (min-width: 1024px) {
+  .resume-biography h1 {
+    font-size: 4.5rem; /* lg:text-7xl 相当 */
+  }
+}
+
 /* コンテンツ領域の最大幅を広げる */
 .article-container,
 .container {
