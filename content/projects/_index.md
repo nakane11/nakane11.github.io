@@ -16,6 +16,7 @@ sections:
   - block: collection
     content:
       title: ""
+      count: 20
       filters:
         folders:
           - projects
