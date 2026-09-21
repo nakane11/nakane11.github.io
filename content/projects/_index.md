@@ -8,8 +8,6 @@ sections:
   - block: markdown
     content:
       title: "研究プロジェクト"
-      text: |
-        ロボティクスと人間-ロボット相互作用に関する研究プロジェクトをご紹介します。
     design:
       text_align: left
 
