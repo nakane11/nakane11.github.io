@@ -43,7 +43,15 @@ article > main > h1 {
 /* コンテンツ領域の最大幅を広げる */
 .article-container,
 .container {
-  max-width: 1100px !important; /* 好みの幅に調整してください */
+  max-width: 1300px !important; /* 好みの幅に調整してください */
+}
+
+/* プロジェクトページ（個別ページ）本文カラムの最大幅を広げる */
+article > main {
+  max-width: 1400px !important; /* main要素自体の幅制限を広げる */
+}
+div.mx-auto.flex.max-w-screen-xl {
+  max-width: 1600px !important; /* サイドバー・本文・目次を含む外側コンテナの幅制限を広げる */
 }
 
 /* Markdownブロック内の段落や箇条書き（リスト）の文字サイズを小さくする */
@@ -57,7 +65,7 @@ article > main > h1 {
 
 /* Markdownブロックなど、文章エリア自体の最大幅制限を広げる */
 .prose {
-  max-width: 1100px !important; /* ここの数値をコンテナ幅と同じくらいに設定します */
+  max-width: 1300px !important; /* ここの数値をコンテナ幅と同じくらいに設定します */
 }
 
 /* プロジェクトページの日付・読了時間を非表示にする */
