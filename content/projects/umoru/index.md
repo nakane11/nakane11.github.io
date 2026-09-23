@@ -24,38 +24,36 @@ slides: ""
 umoruは、人がロボットに”埋もれる”ことで、物理的・心理的な一体感を与える体験をコンセプトとしたハグロボットです。
 このプロジェクトでは、人をやさしく抱きしめるためのロボットアームの開発を担当しました。
 
-![umoru](figs/umoru0.gif)
+<img src="figs/umoru0.gif" alt="umoru" style="width: 65%; height: auto;">
 
 ## 設計コンセプト
 
 ## ワイヤ駆動による骨格の短円節化
 
-![ワイヤ駆動による骨格の短円節化](figs/umoru1.png)
+<img src="figs/umoru1.png" alt="umoru" style="width: 120%; height: auto;">
 
 ## シリアル配管配索の短円節骨格への内蔵
 
 ## 空気外装による接触検知
 
-![空気外装による接触検知](figs/umoru3.png)
-
-<video width="100%" controls>
-  <source src="figs/umoru4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ハグの内側に人が居る場合と居ない場合での空気外装の内圧を比較したところ、以下の違いがみられ、圧力の増減パターンによって接触検知できることを確認しました。
 - 人が居ない状態（左）: ハグ時にアームが最後まで曲がりきるため、空気袋同士が自己干渉し、全てのリンクで圧力が増加
 - 人が居る状態（右）: link2では人との直接接触により圧力が増加する一方で、胴体に近いlink0とlink1では人の身体によってアームの屈曲が妨げられ、圧力が減少
 
+<img src="figs/umoru3.png" alt="umoru" style="width: 120%; height: auto;">
+
+<video width="90%" controls>
+  <source src="figs/umoru4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 東京大学制作展での体験型展示
 
-![東京大学制作展での体験型展示](figs/umoru5.png)
-
-東京大学制作展2024(https://2024-main.pages.dev/?workId=umoru)にて5日間umoruを展示し、来場者との交流体験を実施しました。
+[東京大学制作展2024](https://2024-main.pages.dev/?workId=umoru)にて5日間umoruを展示し、来場者との交流体験を実施しました。
 事後アンケートでは、107人中31人が印象的な場面として体験中にハグされたことに言及し、「ホールド力が強くて驚いた」、「機械的な固さでなく柔らかい感触だったため新鮮な感情が起こった」、「包まれるような感覚で安心感を感じた」といった内容が見られました 。
 これらの結果から、本研究で開発したアームによるやさしく包み込むハグが、人々に驚きや、ロボットから受け入れられるという安心感を与え、豊かな情動体験に繋がった可能性が示唆されます 。
 
+<img src="figs/umoru5.png" alt="umoru" style="width: 110%; height: auto;">
 
 ### 関連研究
 - 中根葵, 澤田智佳, 宮道彩乃, 山口直也, 矢野倉伊織, 岡田慧: バックグラウンドストーリーを持つハグロボット「umoru」の研究3: 人をやさしく抱きしめる短円節から構成される連続屈曲アームの設計と開発. *日本ロボット学会学術講演会*, 1J4-03, 2025.
