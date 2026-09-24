@@ -10,6 +10,7 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
+  filename: figs/umoru0.gif
   caption: ハグロボット umoru
   focal_point: Smart
 
@@ -50,7 +51,7 @@ umoruは、人がロボットに”埋もれる”ことで、物理的・心理
 - 給気用電磁弁と気圧センサ・マイコンを搭載した基板をまとめた**小型空気圧モジュール**を開発し、空気袋ごとの内圧制御を実現
 - 関節駆動用サーボと空気圧モジュールの駆動電圧・通信パケット形式を統一することで、全モジュールを3線で数珠つなぎに接続し、配線量を削減
 
-<img src="figs/umoru2.png" alt="umoru" style="width: 100%; height: auto;">
+<img src="figs/umoru2.png" alt="umoru" style="width: 90%; height: auto;">
 
 ## 空気外装による接触検知
 
