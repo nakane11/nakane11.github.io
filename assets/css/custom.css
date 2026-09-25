@@ -93,3 +93,8 @@ a[id^="share-link-"] {
 section:has(> a[id^="share-link-"]) {
   display: none !important;
 }
+
+/* 各プロジェクトページの Featured image を60%サイズに縮小 */
+img.featured-image[src*="/projects/"] {
+  width: 60% !important;
+}

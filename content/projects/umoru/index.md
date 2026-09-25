@@ -11,7 +11,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   filename: figs/umoru0.gif
-  caption: ハグロボット umoru
+  caption: 
   focal_point: Smart
 
 url_code: ""
@@ -24,8 +24,6 @@ slides: ""
 
 umoruは、人がロボットに”埋もれる”ことで、物理的・心理的な一体感を与える体験をコンセプトとしたハグロボットです。
 このプロジェクトでは、**人をやさしく高密着で抱きしめるためのロボットアーム**の開発を担当しました。
-
-<img src="figs/umoru0.gif" alt="umoru" style="width: 65%; height: auto;">
 
 ## 研究背景
 本研究では、柔らかさの調整や接触検知が可能な空気外装を採用しています。

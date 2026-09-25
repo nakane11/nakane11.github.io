@@ -12,7 +12,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   filename: figs/stand.gif
-  caption: 5指ハンドロボットによるハンドロコマニピュレーション
+  caption: 
   focal_point: Smart
 
 url_code: ""
@@ -26,8 +26,6 @@ slides: ""
 アームから分離して自律移動するロボットハンドは、本体からは届かない机上や人への近接空間へアクセスでき、日常生活における支援可能性を大きく広げます。さらに、人間と同様の五指形状はジェスチャによる意思疎通も期待されます。
 
 本研究では、このような単体で活動するハンドを**ハンドロボット**と呼び、ハンドロボットが**支持・移動、把持、表現という複数機能を統合的に実行する**概念を**ハンドロコマニピュレーション**と名付けました。
-
-<img src="figs/stand.gif" alt="umoru" style="width: 80%; height: auto;">
 
 ## 研究背景
 ハンドロコマニピュレーションにおいて、指や掌は地面を支える脚や物体を掴む腕のように、タスクに応じてその役割を動的に変化させます。
@@ -61,7 +59,7 @@ slides: ""
 - 母指以外の指は3関節の屈曲と内外転で4自由度、母指は3関節の屈曲で3自由度を持ち、計19個のサーボモータで駆動
 - 自重によるモータ負荷を防ぐため、樹脂製カバーに突起を設けて可動域を構造的に制限
 
-<img src="figs/hand_robot.png" alt="ハンドロボットの寸法と関節構成" style="width: 70%; height: auto;">
+<img src="figs/hand_robot.png" alt="ハンドロボットの寸法と関節構成" style="width: 60%; height: auto;">
 
 ## 実機による把持と支持の物理的干渉分析
 
