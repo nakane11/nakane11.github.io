@@ -63,6 +63,11 @@ slides: ""
 
 ## 実機による把持と支持の物理的干渉分析
 
+<video width="120%" controls>
+  <source src="figs/exp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 関連論文
 
 - 中根葵, 山口直也, 矢野倉伊織, 岡田慧: 5指ロボットにおけるタスク駆動型ハンドロコマニピュレーションの身体的役割分担. *SICEシステムインテグレーション部門講演会*, 2B3-09, 2025.
