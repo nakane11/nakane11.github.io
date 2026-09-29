@@ -59,7 +59,7 @@ slides: ""
 - パートナーの認識: LiDARの点群から手を繋いで隣を歩く人間を認識し、他の障害物と区別
 - 人間と一体化した障害物回避: ロボット・人間へ伸ばしたアーム・人間を合成したフットプリントを形成し、これが障害物と干渉しないような経路を計画
 
-<img src="figs/footprint.png" alt="ロボットと人を含むフットプリントの生成手順" style="width: 100%; height: auto;">
+<img src="figs/roman4.png" alt="" style="width: 100%; height: auto;">
 
 
 ## エレベータを利用した階をまたぐ移動
