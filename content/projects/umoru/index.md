@@ -10,7 +10,8 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  filename: figs/umoru0.gif
+  filename: figs/umoru0.jpg
+  video: figs/umoru0.mp4
   caption: 
   focal_point: Smart
 

@@ -11,7 +11,8 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  filename: figs/stand.gif
+  filename: figs/stand.jpg
+  video: figs/stand.mp4
   caption: 
   focal_point: Smart
 
